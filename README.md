@@ -1,4 +1,4 @@
-## 000
+## With no precautionary actions taken, the coronavirus will his us HARD!
 
 You can use the [editor on GitHub](https://github.com/Kyrie0921/statcovid19.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
