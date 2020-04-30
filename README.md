@@ -1,3 +1,4 @@
 ## With no precautionary actions taken, the coronavirus will his us HARD!
 
-$X_t$
+
+![GitHub Logo](/images/tzy.png)
