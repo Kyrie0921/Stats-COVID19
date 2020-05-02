@@ -4,5 +4,5 @@
 The novel coronavirus brings dramatic changes to our lives and may keep its impact profoundly. The United State closes the borader and declares a state of emergency.The bloomberg estimates the unemployment rate will rise to over 20% in April, which is a renaissance of the 1929 crisis.Here you will see the significance of social distancing and shelter-in-place,otherwise, the number of cases and deaths will be too shocking to tolerate.
 
 ## How infectious it is
-We will take Timeseria as the example. From the first 30 days the situation seems controlable
+We will take Timeseria as a example. For the first 30 days the situation seems controlable
 ![P1](https://user-images.githubusercontent.com/60074638/80892798-6fe43f80-8cff-11ea-9e29-068b8d32d7ea.png)
