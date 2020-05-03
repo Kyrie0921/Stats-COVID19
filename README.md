@@ -5,7 +5,8 @@ The spreading coronavirus(also called COVID-19) is shaping up as a pandemic of p
 
 ## “Exponentially” is not enough to describe its infectiousness.
 We will take Timeseria as an example. With only 26 confirmed cases for the first 40 days, COVID-19 showed it infectivity by sickening more than 30,000 people at day 66. The number rises over 1000 times in only 26 days. We may explain this by covid-19’s long incubation period (14days) and its confounding symptoms in comparison with cold, flu and fever. However, these suggest that the outbreak of the virus is far away from ceasing. 
-![P1](https://user-images.githubusercontent.com/60074638/80892798-6fe43f80-8cff-11ea-9e29-068b8d32d7ea.png)
+![WeChat Image_20200503121518](https://user-images.githubusercontent.com/60074638/80898983-db98cd80-8d3c-11ea-91d6-ce0656278030.jpg)
+
 
 ## Can we make it controllable?
 Conclusion first: Don’t be panic and YES it is, but it takes time.
