@@ -7,4 +7,8 @@ The novel coronavirus(also called COVID-19) brings dramatic changes to our lives
 We will take Timeseria as an example. For the first 40 days, the situation seems controllable, however, COVID-19 showed it infectivity by sickening more than 30,000 people at day 66. From nothing to tens of thousands within two months, without a single momentum of containment.
 ![P1](https://user-images.githubusercontent.com/60074638/80892798-6fe43f80-8cff-11ea-9e29-068b8d32d7ea.png)
 
-##The initial number may be misleading
+## The initial number might be deceiving
+Here we gonna ask ourselves: Does the number really reflect what's going on out there? Since the first case was detected two months ago, why does it take so long (almost 40 days!) from 1 case to 10 cases, but then 20 days from 10 to 30,000? This is nonreasonable. Digging into the very root of this issue, note that one will be confirmed cases only if he or she tests positive on the virus test, and the difficulty for people to get tested, we can speculate that the lack of alertness and the incapability for adequate testing, lead to the horizontal line for the initial 40 days. Fortunately, this gives us a hint that expanding testing capacity is one of the keys to end this unprecedented crisis.
+
+## What the future will be?
+
