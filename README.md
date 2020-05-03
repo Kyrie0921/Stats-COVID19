@@ -1,4 +1,4 @@
-# With no precautionary actions taken, the coronavirus will his us HARD!
+# With no precautionary actions taken, the coronavirus will hit us HARD!
 ![Social_distancing_queueing_for_the_supermarket_J _Sainsbury's_north_London_Coronavirus_Covid_19_pandemic_-_30_March_2020](https://user-images.githubusercontent.com/60074638/80893103-f39f2b80-8d01-11ea-8f51-0874e5e8ec17.jpg)
 
 The spreading coronavirus(also called COVID-19) is shaping up as a pandemic of potentially historic proportions, bringing dramatic changes to our lives and may keep its impact profoundly. As countries borders being closed and state emergency being announced, the situation is supposed to be better. However, the statistics reveals that it is unlikely to foresee a flatten curve in close future. How could that be?
