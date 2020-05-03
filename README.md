@@ -26,5 +26,5 @@ This is why government urges everyone to shelter in place to slow the spread of 
 ## Final Word
 The data is only a number, but behind a number is a tragedy to a person, to a family and to those around him. I hope our prediction is way too high. Please,
 DO SOMETHING, as there is still time.
-DO SOMETHING, as there is no one you know being tortured by virus.
-DO SOMETHING, for sake of not only you.
+DO SOMETHING, for someone who's still being tortured.
+DO SOMETHING, for the sake of others.
